@@ -260,7 +260,6 @@
 //     result.textContent = factorial(+input.value)
 // }
 
-
 // 24
 // let input1 = document.querySelector('#input1')
 // let input2 = document.querySelector('#input2')
